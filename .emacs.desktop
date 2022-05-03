@@ -1,0 +1,754 @@
+;; -*- mode: emacs-lisp; lexical-binding:t; coding: utf-8-emacs; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Wed Apr 27 18:50:04 2022
+;; Desktop file format version 208
+;; Emacs version 27.2
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (25193 8156 818965 0) (desktop . "208") "bleu@bleudeMacBook-Pro.local" nil nil ((((minibuffer . t) (fontsize . 0) (font . "-*-Menlo-normal-normal-normal-*-12-*-*-*-m-0-iso10646-1") (border-width . 0) (internal-border-width . 0) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars) (horizontal-scroll-bars) (foreground-color . "#eaeaea") (background-color . "#000000") (line-spacing) (left-fringe . 8) (right-fringe . 8) (no-special-glyphs) (undecorated) (ns-appearance . dark) (ns-transparent-titlebar . t) (z-group) (no-focus-on-map) (no-accept-focus) (menu-bar-lines . 0) (tool-bar-lines . 0) (title) (icon-type) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 15) (scroll-bar-height . 15) (alpha) (fullscreen . fullboth) (display-type . color) (background-mode . dark) (cursor-color . "#d54e53") (environment) (border-color . "#424242") (last-focus-update) (frameset--id . "1AAA-0302-A32D-7884") (frameset--mini t . t) (modeline . t) (unsplittable) (icon-name) (display . "bleudeMacBook-Pro.local") (explicit-name) (tool-bar-position . top) (lsp-ui-doc-buffer . "Unprintable entity") (tabs (current-tab (name . "*helm M-x*") (explicit-name))) (visibility . t) (height . 77) (width . 244) (left . 0) (top . 37)) ((min-height . 4) (min-width . 20) (min-height-ignore . 4) (min-width-ignore . 10) (min-height-safe . 1) (min-width-safe . 4) (min-pixel-height . 56) (min-pixel-width . 140) (min-pixel-height-ignore . 54) (min-pixel-width-ignore . 60) (min-pixel-height-safe . 14) (min-pixel-width-safe . 28)) hc (pixel-width . 1728) (pixel-height . 1066) (total-width . 247) (total-height . 76) (normal-height . 1.0) (normal-width . 1.0) (combination-limit) (leaf (pixel-width . 864) (pixel-height . 1066) (total-width . 123) (total-height . 76) (normal-height . 1.0) (normal-width . 0.5) (buffer "create.tsx • chargePackage" (selected . t) (hscroll . 0) (fringes 8 8 nil nil) (margins nil) (scroll-bars nil 0 t nil 0 t nil) (vscroll . 0) (dedicated) (point . 6304) (start . 5241)) (prev-buffers ("create.tsx • chargePackage" 1 42) ("index.tsx • chargePackage" 1706 1706) ("create.tsx • monthlyPackage" 224 2332) ("index.tsx • monthlyPackage" 2546 2546) ("index.tsx • rechargePackage" 2326 7269))) (leaf (last . t) (pixel-width . 864) (pixel-height . 1066) (total-width . 124) (total-height . 76) (normal-height . 1.0) (normal-width . 0.5) (buffer "create.tsx • rechargePackage" (selected) (hscroll . 0) (fringes 8 8 nil nil) (margins nil) (scroll-bars nil 0 t nil 0 t nil) (vscroll . 0) (dedicated) (point . 2837) (start . 1900)) (prev-buffers ("create.tsx • rechargePackage" 1 372) ("index.tsx • rechargePackage" 2326 7269)))))])
+(setq comint-input-ring nil)
+(setq compile-history nil)
+(setq desktop-missing-file-warning nil)
+(setq dired-regexp-history nil)
+(setq extended-command-history '("emmet-mode" "lsp-workspace-restart" "replace-regexp" "load-theme" "hs-minor-mode" "hs-show-all" "tide-fix" "ibuffer" "tide-references" "tide-restart-server"))
+(setq face-name-history nil)
+(setq file-name-history '("~/.emacs.d/custom.el" "~/work/xiaoyun-merchant-web/src/pages/user/Login/index.tsx" "~/work/xiaoyun-merchant-web/src/pages/Admin.tsx" "~/work/xiaoyun-merchant-web/src/global.tsx" "~/work/xiaoyun-merchant-web/src/locales/bn-BD.ts" "~/work/xiaoyun-merchant-web/src/constant/constant.ts" "~/work/xiaoyun-merchant-web/node_modules/antd/lib/table/interface.d.ts" "~/work/xiaoyun-merchant-web/config/oneapi.json" "~/work/xiaoyun-merchant-web/config/proxy.ts" "~/work/xiaoyun-merchant-web/src/app.tsx" "~/work/xiaoyun-merchant-web/src/pages/eleCard/list/index.tsx" "~/work/xiaoyun-merchant-web/src/pages/projects/projects/index.tsx" "~/work/xiaoyun-merchant-web/node_modules/@ant-design/pro-table/lib/Table.d.ts" "~/work/xiaoyun-merchant-web/node_modules/@ant-design/pro-table/lib/typing.d.ts" "~/work/xiaoyun-merchant-web/src/assets/icon_back.png" "~/work/xiaoyun-merchant-web/node_modules/@ant-design/pro-layout/lib/components/PageContainer/index.d.ts" "~/work/xiaoyun-merchant-web/node_modules/@ant-design/pro-form/lib/layouts/QueryFilter/index.d.ts" "~/work/xiaoyun-merchant-web/node_modules/antd/lib/switch/index.d.ts" "~/work/xiaoyun-merchant-web/node_modules/@ant-design/pro-form/lib/BaseForm/BaseForm.d.ts" "~/work/xiaoyun-merchant-web/src/pages/financial/chargePackage/components/ServiceForm.tsx" "~/work/xiaoyun-merchant-web/node_modules/rc-field-form/es/interface.d.ts" "~/work/xiaoyun-merchant-web/src/pages/financial/chargePackage/components/index.ts" "~/work/xiaoyun-merchant-web/config/routes.ts" "~/work/xiaoyun-merchant-web/src/components/NoticeIcon/NoticeIcon.tsx" "~/work/xiaoyun-merchant-web/src/pages/financial/rechargePackage/components/powterForm.tsx" "~/work/xiaoyun-merchant-web/src/pages/financial/monthlyPackage/components/relationModal.tsx" "~/work/xiaoyun-merchant-web/src/pages/projects/projects/components/Copy.tsx" "~/work/xiaoyun-merchant-web/src/pages/projects/projects/components/MapModal.tsx" "~/work/xiaoyun-merchant-web/src/services/ant-design-pro/ConsumerCardController.ts" "~/work/xiaoyun-merchant-web/src/utils/utils.ts" "~/work/xiaoyun-merchant-web/src/locales/zh-CN/menu.ts" "~/work/xiaoyun-merchant-web/node_modules/@ant-design/pro-form/lib/components/SchemaForm/index.d.ts" "~/work/xiaoyun-merchant-web/node_modules/@ant-design/pro-form/lib/components/SchemaForm/typing.d.ts" "~/work/xiaoyun-merchant-web/node_modules/@ant-design/pro-form/lib/components/DigitRange/index.d.ts" "~/work/xiaoyun-merchant-web/src/pages/financial/chargePackage/components/relationModal.tsx" "~/work/xiaoyun-merchant-web/src/services/ant-design-pro/ChargePackageController.ts" "~/work/xiaoyun-merchant-web/node_modules/@ant-design/pro-utils/lib/typing.d.ts" "~/work/xiaoyun-merchant-web/src/services/ant-design-pro/typings.d.ts" "~/work/xiaoyun-merchant-web/src/pages/financial/rechargePackage/components/relationModal.tsx" "~/work/xiaoyun-merchant-web/src/services/ant-design-pro/RechargePackageController.ts" "~/work/xiaoyun-merchant-web/src/pages/financial/chargePackage/components/electricityForm.tsx" "~/work/xiaoyun-merchant-web/src/services/ant-design-pro/MonthlyPackageController.ts" "~/work/xiaoyun-merchant-web/node_modules/@ant-design/pro-form/lib/layouts/index.d.ts" "~/work/xiaoyun-merchant-web/src/pages/financial/monthlyPackage/components/cardForm.tsx" "~/work/xiaoyun-merchant-web/src/pages/financial/monthlyPackage/components/form.tsx" "~/work/xiaoyun-merchant-web/src/pages/financial/chargePackage/index.less" "~/work/xiaoyun-merchant-web/src/pages/financial/monthlyPackage/index.less" "~/work/xiaoyun-merchant-web/src/pages/financial/rechargePackage/index.less" "~/work/xiaoyun-merchant-web/node_modules/rc-input-number/lib/InputNumber.d.ts" "~/work/xiaoyun-merchant-web/src/pages/financial/chargePackage/components/powterForm.tsx" "~/work/xiaoyun-merchant-web/src/pages/financial/chargePackage/components/timeForm.tsx" "~/work/xiaoyun-merchant-web/src/pages/financial/rechargePackage/components/timeForm.tsx" "~/work/xiaoyun-merchant-web/node_modules/antd/lib/pagination/Pagination.d.ts" "~/work/xiaoyun-merchant-web/src/pages/financial/rechargePackage/components/form.tsx" "~/work/xiaoyun-merchant-web/src/pages/financial/rechargePackage/components/index.ts" "~/work/xiaoyun-merchant-web/src/pages/financial/monthlyPackage/index.tsx" "~/work/xiaoyun-merchant-web/src/pages/financial/monthlyPackage/components/create.tsx" "~/work/xiaoyun-merchant-web/src/pages/financial/chargePackage/index.tsx" "~/work/xiaoyun-merchant-web/src/pages/financial/rechargePackage/index.tsx" "~/work/xiaoyun-merchant-web/src/pages/financial/rechargePackage/components/create.tsx" "~/work/xiaoyun-merchant-web/src/pages/financial/chargePackage/components/create.tsx" "~/work/xiaoyun-merchant-web/src/pages/financial/chargePackage/index.tsx" "~/work/xiaoyun-merchant-web/src/pages/financial/monthlyPackage/index.tsx" "~/work/xiaoyun-merchant-web/src/pages/financial/rechargePackage/index.tsx" "~/work/xiaoyun-merchant-web/src/pages/financial/monthlyPackage/components/create.tsx" "~/work/xiaoyun-merchant-web/src/pages/financial/monthlyPackage/components/index.ts" "~/work/xiaoyun-merchant-web/src/pages/financial/rechargePackage/components/create.tsx" "~/work/xiaoyun-merchant-web/src/pages/financial/rechargePackage/components/index.ts" "~/work/xiaoyun-merchant-web/src/pages/financial/rechargePackage/components/form.tsx" "~/work/xiaoyun-merchant-web/src/pages/financial/chargePackage/components/create.tsx" "~/work/xiaoyun-merchant-web/src/pages/financial/chargePackage/components/serviceForm.tsx"))
+(setq grep-find-history nil)
+(setq grep-history nil)
+(setq magit-revision-history '("feat/selectUi"))
+(setq minibuffer-history '("c" "a" "/Users/bleu/work/xiaoyun-merchant-web/src/pages/financial/chargePackage/" "d" "/Users/bleu/work/xiaoyun-merchant-web/src/pages/financial/monthlyPackage/" "/Users/bleu/work/xiaoyun-merchant-web/src/pages/financial/rechargePackage/" "/Users/bleu/work/xiaoyun-merchant-web/src/pages/financial/monthlyPackage/components/" "/Users/bleu/work/xiaoyun-merchant-web/src/pages/financial/rechargePackage/components/" "/Users/bleu/work/xiaoyun-merchant-web/src/pages/financial/chargePackage/components/cr" "/Users/bleu/work/xiaoyun-merchant-web/src/pages/financial/chargePackage/components/ser"))
+(setq org-clock-history nil)
+(setq org-tags-history nil)
+(setq query-replace-history '("API.MonthlyPackageModel" #("API.ChargePackageModel" 0 21 (part-side jsx) 21 22 (rear-nonsticky t part-side jsx)) "API.RechargePackageModel" ".forEach" ".map" " === " " == "))
+(setq read-expression-history nil)
+(setq regexp-history nil)
+(setq regexp-search-ring nil)
+(setq register-alist nil)
+(setq search-ring '(#("," 0 1 (isearch-regexp-function nil isearch-case-fold-search t)) #(";" 0 1 (isearch-regexp-function nil isearch-case-fold-search t)) #("id" 0 2 (isearch-regexp-function nil isearch-case-fold-search t)) #("nextsort" 0 8 (isearch-regexp-function nil isearch-case-fold-search t)) #("treemacs" 0 8 (isearch-case-fold-search t isearch-regexp-function nil)) #("lsp-treemacs-theme" 0 18 (isearch-case-fold-search t isearch-regexp-function nil)) #("atom" 0 4 (isearch-case-fold-search t isearch-regexp-function nil)) #("helm" 0 4 (isearch-case-fold-search t isearch-regexp-function nil))))
+(setq shell-command-history nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 208
+  "/Users/bleu/work/xiaoyun-merchant-web/src/pages/financial/chargePackage/components/create.tsx"
+  "create.tsx"
+  'web-mode
+  '(eldoc-mode ns-auto-titlebar-mode global-auto-revert-mode company-mode yas-minor-mode undo-tree-mode lsp-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode diff-hl-mode whitespace-cleanup-mode which-key-mode hes-mode whole-line-or-region-local-mode beacon-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode flycheck-mode tide-mode hs-minor-mode lsp-completion-mode anzu-mode dimmer-mode lsp-modeline-code-actions-mode lsp-modeline-diagnostics-mode lsp-modeline-workspace-status-mode lsp-diagnostics-mode)
+  6304
+  '(42 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (buffer-display-time 25193 7555 41952 0) (buffer-file-coding-system . utf-8-unix) (overwrite-mode))
+  '((mark-ring (42 42 42 42 42 42 42 42 42))))
+
+(desktop-create-buffer 208
+  "/Users/bleu/work/xiaoyun-merchant-web/src/pages/financial/rechargePackage/components/create.tsx"
+  "create.tsx"
+  'web-mode
+  '(eldoc-mode ns-auto-titlebar-mode global-auto-revert-mode company-mode yas-minor-mode undo-tree-mode lsp-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode diff-hl-mode whitespace-cleanup-mode which-key-mode hes-mode whole-line-or-region-local-mode beacon-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode flycheck-mode tide-mode hs-minor-mode lsp-completion-mode anzu-mode dimmer-mode lsp-modeline-code-actions-mode lsp-modeline-diagnostics-mode lsp-modeline-workspace-status-mode lsp-diagnostics-mode)
+  2837
+  '(376 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (buffer-display-time 25193 7555 41952 0) (buffer-file-coding-system . utf-8-unix) (overwrite-mode))
+  '((mark-ring (376 372 2848 376 376 376 376 376 3152 376 224))))
+
+(desktop-create-buffer 208
+  "/Users/bleu/work/xiaoyun-merchant-web/src/pages/financial/rechargePackage/index.tsx"
+  "index.tsx"
+  'web-mode
+  '(eldoc-mode ns-auto-titlebar-mode global-auto-revert-mode company-mode yas-minor-mode undo-tree-mode lsp-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode diff-hl-mode whitespace-cleanup-mode which-key-mode hes-mode whole-line-or-region-local-mode beacon-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode flycheck-mode tide-mode hs-minor-mode lsp-completion-mode anzu-mode dimmer-mode lsp-modeline-code-actions-mode lsp-modeline-diagnostics-mode lsp-modeline-workspace-status-mode lsp-diagnostics-mode)
+  2469
+  '(2294 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (buffer-display-time 25190 18862 663208 874000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (case-fold-search . t))
+  '((mark-ring (2326 2326 2294 2326 2326 2326 2326 2326 2326 2326 2300 2326 2326 2326 2326 1742))))
+
+(desktop-create-buffer 208
+  "/Users/bleu/work/xiaoyun-merchant-web/src/pages/financial/chargePackage/index.tsx"
+  "index.tsx"
+  'web-mode
+  '(eldoc-mode ns-auto-titlebar-mode global-auto-revert-mode company-mode yas-minor-mode undo-tree-mode lsp-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode diff-hl-mode whitespace-cleanup-mode which-key-mode hes-mode whole-line-or-region-local-mode beacon-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode flycheck-mode tide-mode hs-minor-mode lsp-completion-mode anzu-mode dimmer-mode lsp-modeline-code-actions-mode lsp-modeline-diagnostics-mode lsp-modeline-workspace-status-mode lsp-diagnostics-mode)
+  9413
+  '(1706 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (buffer-display-time 25190 18848 997997 874000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (case-fold-search . t))
+  '((mark-ring (1706 1706 1706 1706 1706 1706 1706 1706 1706 1706 1706 1706 1706 1706 1706 1706))))
+
+(desktop-create-buffer 208
+  "/Users/bleu/work/xiaoyun-merchant-web/src/pages/financial/monthlyPackage/components/create.tsx"
+  "create.tsx"
+  'web-mode
+  '(eldoc-mode ns-auto-titlebar-mode global-auto-revert-mode company-mode yas-minor-mode undo-tree-mode lsp-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode diff-hl-mode whitespace-cleanup-mode which-key-mode hes-mode whole-line-or-region-local-mode beacon-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode flycheck-mode tide-mode hs-minor-mode lsp-completion-mode anzu-mode dimmer-mode lsp-modeline-code-actions-mode lsp-modeline-diagnostics-mode lsp-modeline-workspace-status-mode lsp-diagnostics-mode)
+  2332
+  '(224 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (buffer-display-time 25190 18832 552839 874000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode))
+  '((mark-ring (224 224 224 224 224 224 224 224 223 209 224 224 224 224 2492 2483))))
+
+(desktop-create-buffer 208
+  "/Users/bleu/work/xiaoyun-merchant-web/src/pages/financial/monthlyPackage/index.tsx"
+  "index.tsx"
+  'web-mode
+  '(eldoc-mode ns-auto-titlebar-mode global-auto-revert-mode company-mode yas-minor-mode undo-tree-mode lsp-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode diff-hl-mode whitespace-cleanup-mode which-key-mode hes-mode whole-line-or-region-local-mode beacon-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode flycheck-mode tide-mode hs-minor-mode lsp-completion-mode anzu-mode dimmer-mode lsp-modeline-code-actions-mode lsp-modeline-diagnostics-mode lsp-modeline-workspace-status-mode lsp-diagnostics-mode)
+  6619
+  '(2528 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (buffer-display-time 25190 18800 9105 874000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode))
+  '((mark-ring (2514 2546 6940 2546 2546 2546 2546 2546 2546 2546 2546 2546 2546 2546 2546 2546))))
+
+(desktop-create-buffer 208
+  "/Users/bleu/work/xiaoyun-merchant-web/src/pages/financial/rechargePackage/components/index.ts"
+  "index.ts"
+  'typescript-mode
+  '(eldoc-mode ns-auto-titlebar-mode global-auto-revert-mode company-mode yas-minor-mode undo-tree-mode lsp-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode diff-hl-mode whitespace-cleanup-mode which-key-mode hes-mode whole-line-or-region-local-mode beacon-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode flycheck-mode tide-mode hs-minor-mode lsp-completion-mode anzu-mode dimmer-mode lsp-modeline-code-actions-mode lsp-modeline-diagnostics-mode lsp-modeline-workspace-status-mode lsp-diagnostics-mode)
+  26
+  '(nil nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (buffer-display-time 25190 18399 87513 874000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/bleu/work/xiaoyun-merchant-web/src/pages/financial/rechargePackage/components/form.tsx"
+  "form.tsx"
+  'web-mode
+  '(eldoc-mode ns-auto-titlebar-mode global-auto-revert-mode company-mode yas-minor-mode undo-tree-mode lsp-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode diff-hl-mode whitespace-cleanup-mode which-key-mode hes-mode whole-line-or-region-local-mode beacon-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode flycheck-mode tide-mode hs-minor-mode lsp-completion-mode anzu-mode dimmer-mode lsp-modeline-code-actions-mode lsp-modeline-diagnostics-mode lsp-modeline-workspace-status-mode lsp-diagnostics-mode)
+  51
+  '(69 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (buffer-display-time 25190 18396 154539 874000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode))
+  '((mark-ring (1180 962 969 1059 1051 1007 977 400 342 338 1177 1))))
+
+(desktop-create-buffer 208
+  "/Users/bleu/work/xiaoyun-merchant-web/node_modules/antd/lib/pagination/Pagination.d.ts"
+  "Pagination.d.ts"
+  'typescript-mode
+  '(eldoc-mode ns-auto-titlebar-mode global-auto-revert-mode company-mode yas-minor-mode undo-tree-mode lsp-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode diff-hl-mode whitespace-cleanup-mode which-key-mode hes-mode whole-line-or-region-local-mode beacon-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode flycheck-mode tide-mode hs-minor-mode lsp-completion-mode anzu-mode dimmer-mode lsp-modeline-code-actions-mode lsp-modeline-diagnostics-mode lsp-modeline-workspace-status-mode lsp-diagnostics-mode)
+  434
+  '(621 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (buffer-display-time 25190 18048 591407 874000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (502 621))))
+
+(desktop-create-buffer 208
+  "/Users/bleu/work/xiaoyun-merchant-web/src/pages/financial/rechargePackage/components/timeForm.tsx"
+  "timeForm.tsx"
+  'web-mode
+  '(eldoc-mode ns-auto-titlebar-mode global-auto-revert-mode company-mode yas-minor-mode undo-tree-mode lsp-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode diff-hl-mode whitespace-cleanup-mode which-key-mode hes-mode whole-line-or-region-local-mode beacon-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode flycheck-mode tide-mode hs-minor-mode lsp-completion-mode anzu-mode dimmer-mode lsp-modeline-code-actions-mode lsp-modeline-diagnostics-mode lsp-modeline-workspace-status-mode lsp-diagnostics-mode)
+  1115
+  '(1049 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (buffer-display-time 25190 17465 712704 874000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode))
+  '((mark-ring (1049 1049 100 1320))))
+
+(desktop-create-buffer 208
+  "/Users/bleu/work/xiaoyun-merchant-web/src/pages/financial/chargePackage/components/timeForm.tsx"
+  "timeForm.tsx"
+  'web-mode
+  '(eldoc-mode ns-auto-titlebar-mode global-auto-revert-mode company-mode yas-minor-mode undo-tree-mode lsp-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode diff-hl-mode whitespace-cleanup-mode which-key-mode hes-mode whole-line-or-region-local-mode beacon-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode flycheck-mode tide-mode hs-minor-mode lsp-completion-mode anzu-mode dimmer-mode lsp-modeline-code-actions-mode lsp-modeline-diagnostics-mode lsp-modeline-workspace-status-mode lsp-diagnostics-mode)
+  1238
+  '(1218 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (buffer-display-time 25190 17420 99192 874000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (case-fold-search . t))
+  '((mark-ring (1160 1049 959 959 959 959 959 959 959 284))))
+
+(desktop-create-buffer 208
+  "/Users/bleu/work/xiaoyun-merchant-web/src/pages/financial/chargePackage/components/powterForm.tsx"
+  "powterForm.tsx"
+  'web-mode
+  '(eldoc-mode ns-auto-titlebar-mode global-auto-revert-mode company-mode yas-minor-mode undo-tree-mode lsp-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode diff-hl-mode whitespace-cleanup-mode which-key-mode hes-mode whole-line-or-region-local-mode beacon-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode flycheck-mode tide-mode hs-minor-mode lsp-completion-mode anzu-mode dimmer-mode lsp-modeline-code-actions-mode lsp-modeline-diagnostics-mode lsp-modeline-workspace-status-mode lsp-diagnostics-mode)
+  1882
+  '(1795 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (buffer-display-time 25190 17367 73788 874000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (case-fold-search . t))
+  '((mark-ring (1245 1809 2038 1907 362 1105 1381 1725 1948 2238 1066 2168 2067 718 98))))
+
+(desktop-create-buffer 208
+  "/Users/bleu/work/xiaoyun-merchant-web/node_modules/rc-input-number/lib/InputNumber.d.ts"
+  "InputNumber.d.ts"
+  'typescript-mode
+  '(eldoc-mode ns-auto-titlebar-mode global-auto-revert-mode company-mode yas-minor-mode undo-tree-mode lsp-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode diff-hl-mode whitespace-cleanup-mode which-key-mode hes-mode whole-line-or-region-local-mode beacon-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode flycheck-mode tide-mode hs-minor-mode lsp-completion-mode anzu-mode dimmer-mode lsp-modeline-code-actions-mode lsp-modeline-diagnostics-mode lsp-modeline-workspace-status-mode lsp-diagnostics-mode)
+  1089
+  '(nil nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (buffer-display-time 25190 17305 446020 874000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/bleu/work/xiaoyun-merchant-web/src/pages/financial/rechargePackage/index.less"
+  "index.less"
+  'less-css-mode
+  '(eldoc-mode ns-auto-titlebar-mode global-auto-revert-mode company-mode yas-minor-mode undo-tree-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode diff-hl-mode whitespace-cleanup-mode which-key-mode hes-mode whole-line-or-region-local-mode beacon-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode flycheck-mode anzu-mode dimmer-mode skewer-css-mode rainbow-mode skewer-less-mode)
+  2121
+  '(36 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (buffer-display-time 25190 16952 490593 874000) (buffer-file-coding-system . undecided-unix) (overwrite-mode))
+  '((mark-ring (36 1 36 36))))
+
+(desktop-create-buffer 208
+  "/Users/bleu/work/xiaoyun-merchant-web/src/pages/financial/monthlyPackage/index.less"
+  "index.less"
+  'less-css-mode
+  '(eldoc-mode ns-auto-titlebar-mode global-auto-revert-mode company-mode yas-minor-mode undo-tree-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode diff-hl-mode whitespace-cleanup-mode which-key-mode hes-mode whole-line-or-region-local-mode beacon-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode flycheck-mode anzu-mode dimmer-mode skewer-css-mode rainbow-mode skewer-less-mode emmet-mode)
+  2080
+  '(2122 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (buffer-display-time 25190 16762 211437 874000) (buffer-file-coding-system . undecided-unix) (overwrite-mode))
+  '((mark-ring (36 1 36 2121 36 36 36))))
+
+(desktop-create-buffer 208
+  "/Users/bleu/work/xiaoyun-merchant-web/src/pages/financial/chargePackage/index.less"
+  "index.less"
+  'less-css-mode
+  '(eldoc-mode ns-auto-titlebar-mode global-auto-revert-mode company-mode yas-minor-mode undo-tree-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode diff-hl-mode whitespace-cleanup-mode which-key-mode hes-mode whole-line-or-region-local-mode beacon-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode flycheck-mode anzu-mode dimmer-mode skewer-css-mode rainbow-mode skewer-less-mode)
+  2040
+  '(1909 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (buffer-display-time 25190 16211 95490 874000) (buffer-file-coding-system . undecided-unix) (overwrite-mode))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/bleu/work/xiaoyun-merchant-web/src/pages/financial/monthlyPackage/components/form.tsx"
+  "form.tsx"
+  'web-mode
+  '(eldoc-mode ns-auto-titlebar-mode global-auto-revert-mode company-mode yas-minor-mode undo-tree-mode lsp-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode diff-hl-mode whitespace-cleanup-mode which-key-mode hes-mode whole-line-or-region-local-mode beacon-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode flycheck-mode tide-mode hs-minor-mode lsp-completion-mode anzu-mode dimmer-mode lsp-modeline-code-actions-mode lsp-modeline-diagnostics-mode lsp-modeline-workspace-status-mode lsp-diagnostics-mode)
+  69
+  '(1966 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (buffer-display-time 25190 16186 868987 874000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode))
+  '((mark-ring (1970 69 1280 1259 1751 1518 935 1448 1449 924 1416 1311 1360 1360 1359 1361))))
+
+(desktop-create-buffer 208
+  "/Users/bleu/work/xiaoyun-merchant-web/src/pages/financial/monthlyPackage/components/cardForm.tsx"
+  "cardForm.tsx"
+  'web-mode
+  '(eldoc-mode ns-auto-titlebar-mode global-auto-revert-mode company-mode yas-minor-mode undo-tree-mode lsp-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode diff-hl-mode whitespace-cleanup-mode which-key-mode hes-mode whole-line-or-region-local-mode beacon-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode flycheck-mode tide-mode hs-minor-mode lsp-completion-mode anzu-mode dimmer-mode lsp-modeline-code-actions-mode lsp-modeline-diagnostics-mode lsp-modeline-workspace-status-mode lsp-diagnostics-mode)
+  982
+  '(1282 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (buffer-display-time 25190 15892 6658 874000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode))
+  '((mark-ring (922 1228 966 1052 1142 1099 1184 1269 1243 1112 1022 936 1242 346 338 1343))))
+
+(desktop-create-buffer 208
+  "/Users/bleu/work/xiaoyun-merchant-web/node_modules/@ant-design/pro-form/lib/layouts/index.d.ts"
+  "index.d.ts"
+  'typescript-mode
+  '(eldoc-mode ns-auto-titlebar-mode global-auto-revert-mode company-mode yas-minor-mode undo-tree-mode lsp-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode diff-hl-mode whitespace-cleanup-mode which-key-mode hes-mode whole-line-or-region-local-mode beacon-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode flycheck-mode tide-mode hs-minor-mode lsp-completion-mode anzu-mode dimmer-mode lsp-modeline-code-actions-mode lsp-modeline-diagnostics-mode lsp-modeline-workspace-status-mode lsp-diagnostics-mode)
+  823
+  '(nil nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (buffer-display-time 25190 15809 367759 874000) (buffer-file-coding-system . undecided-unix) (overwrite-mode))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/bleu/work/xiaoyun-merchant-web/src/services/ant-design-pro/MonthlyPackageController.ts"
+  "MonthlyPackageController.ts"
+  'typescript-mode
+  '(eldoc-mode ns-auto-titlebar-mode global-auto-revert-mode company-mode yas-minor-mode undo-tree-mode lsp-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode diff-hl-mode whitespace-cleanup-mode which-key-mode hes-mode whole-line-or-region-local-mode beacon-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode flycheck-mode tide-mode hs-minor-mode lsp-completion-mode anzu-mode dimmer-mode lsp-modeline-code-actions-mode lsp-modeline-diagnostics-mode lsp-modeline-workspace-status-mode lsp-diagnostics-mode)
+  665
+  '(606 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (buffer-display-time 25190 15652 77562 874000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode))
+  '((mark-ring (1020 326 1643 284 235))))
+
+(desktop-create-buffer 208
+  "/Users/bleu/work/xiaoyun-merchant-web/src/pages/financial/chargePackage/components/electricityForm.tsx"
+  "electricityForm.tsx"
+  'web-mode
+  '(eldoc-mode ns-auto-titlebar-mode global-auto-revert-mode company-mode yas-minor-mode undo-tree-mode lsp-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode diff-hl-mode whitespace-cleanup-mode which-key-mode hes-mode whole-line-or-region-local-mode beacon-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode flycheck-mode tide-mode hs-minor-mode lsp-completion-mode anzu-mode dimmer-mode lsp-modeline-code-actions-mode lsp-modeline-diagnostics-mode lsp-modeline-workspace-status-mode lsp-diagnostics-mode)
+  935
+  '(1220 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (buffer-display-time 25190 15588 29283 874000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (case-fold-search . t))
+  '((mark-ring (1017 1012 1220 1198 1220 1140 587 852 703 643 779 736 696 829 829 647))))
+
+(desktop-create-buffer 208
+  "/Users/bleu/work/xiaoyun-merchant-web/src/services/ant-design-pro/RechargePackageController.ts"
+  "RechargePackageController.ts"
+  'typescript-mode
+  '(eldoc-mode ns-auto-titlebar-mode global-auto-revert-mode company-mode yas-minor-mode undo-tree-mode lsp-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode diff-hl-mode whitespace-cleanup-mode which-key-mode hes-mode whole-line-or-region-local-mode beacon-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode flycheck-mode tide-mode hs-minor-mode lsp-completion-mode anzu-mode dimmer-mode lsp-modeline-code-actions-mode lsp-modeline-diagnostics-mode lsp-modeline-workspace-status-mode lsp-diagnostics-mode)
+  594
+  '(610 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (buffer-display-time 25189 3843 684339 874000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode))
+  '((mark-ring (2580 2021 1953 327 327 265 327 166 291 327 2058))))
+
+(desktop-create-buffer 208
+  "/Users/bleu/work/xiaoyun-merchant-web/src/pages/financial/rechargePackage/components/relationModal.tsx"
+  "relationModal.tsx"
+  'web-mode
+  '(eldoc-mode ns-auto-titlebar-mode global-auto-revert-mode company-mode yas-minor-mode undo-tree-mode lsp-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode diff-hl-mode whitespace-cleanup-mode which-key-mode hes-mode whole-line-or-region-local-mode beacon-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode flycheck-mode tide-mode hs-minor-mode lsp-completion-mode anzu-mode dimmer-mode lsp-modeline-code-actions-mode lsp-modeline-diagnostics-mode lsp-modeline-workspace-status-mode lsp-diagnostics-mode)
+  100
+  '(466 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (buffer-display-time 25189 528 627658 874000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode))
+  '((mark-ring (360 58))))
+
+(desktop-create-buffer 208
+  "/Users/bleu/work/xiaoyun-merchant-web/src/services/ant-design-pro/typings.d.ts"
+  "typings.d.ts"
+  'typescript-mode
+  '(eldoc-mode ns-auto-titlebar-mode global-auto-revert-mode company-mode yas-minor-mode undo-tree-mode lsp-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode diff-hl-mode whitespace-cleanup-mode which-key-mode hes-mode whole-line-or-region-local-mode beacon-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode flycheck-mode tide-mode hs-minor-mode lsp-completion-mode anzu-mode dimmer-mode lsp-modeline-code-actions-mode lsp-modeline-diagnostics-mode lsp-modeline-workspace-status-mode lsp-diagnostics-mode)
+  69956
+  '(5173 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (buffer-display-time 25188 64300 843869 874000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode))
+  '((mark-ring (5173 5173 5173 5173 5173 5173 5173 5173 5173 5173 5173 5173))))
+
+(desktop-create-buffer 208
+  "/Users/bleu/work/xiaoyun-merchant-web/node_modules/@ant-design/pro-utils/lib/typing.d.ts"
+  "typing.d.ts"
+  'typescript-mode
+  '(eldoc-mode ns-auto-titlebar-mode global-auto-revert-mode company-mode yas-minor-mode undo-tree-mode lsp-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode diff-hl-mode whitespace-cleanup-mode which-key-mode hes-mode whole-line-or-region-local-mode beacon-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode flycheck-mode tide-mode hs-minor-mode lsp-completion-mode anzu-mode dimmer-mode lsp-modeline-code-actions-mode lsp-modeline-diagnostics-mode lsp-modeline-workspace-status-mode lsp-diagnostics-mode)
+  4868
+  '(4885 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (buffer-display-time 25188 62322 582487 874000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (4885))))
+
+(desktop-create-buffer 208
+  "/Users/bleu/work/xiaoyun-merchant-web/src/services/ant-design-pro/ChargePackageController.ts"
+  "ChargePackageController.ts"
+  'typescript-mode
+  '(eldoc-mode ns-auto-titlebar-mode global-auto-revert-mode company-mode yas-minor-mode undo-tree-mode lsp-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode diff-hl-mode whitespace-cleanup-mode which-key-mode hes-mode whole-line-or-region-local-mode beacon-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode flycheck-mode tide-mode hs-minor-mode lsp-completion-mode anzu-mode dimmer-mode lsp-modeline-code-actions-mode lsp-modeline-diagnostics-mode lsp-modeline-workspace-status-mode lsp-diagnostics-mode)
+  564
+  '(602 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (buffer-display-time 25188 61672 430190 874000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode))
+  '((mark-ring (2122 1591 288 952))))
+
+(desktop-create-buffer 208
+  "/Users/bleu/work/xiaoyun-merchant-web/src/pages/financial/chargePackage/components/relationModal.tsx"
+  "relationModal.tsx"
+  'web-mode
+  '(eldoc-mode ns-auto-titlebar-mode global-auto-revert-mode company-mode yas-minor-mode undo-tree-mode lsp-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode diff-hl-mode whitespace-cleanup-mode which-key-mode hes-mode whole-line-or-region-local-mode beacon-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode flycheck-mode tide-mode hs-minor-mode lsp-completion-mode anzu-mode dimmer-mode lsp-modeline-code-actions-mode lsp-modeline-diagnostics-mode lsp-modeline-workspace-status-mode lsp-diagnostics-mode)
+  393
+  '(448 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (buffer-display-time 25188 61505 913338 874000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode))
+  '((mark-ring (360 387 1 393 433 403 209 271 130 103 156 149 470 87 69 204))))
+
+(desktop-create-buffer 208
+  "/Users/bleu/work/xiaoyun-merchant-web/node_modules/@ant-design/pro-form/lib/components/DigitRange/index.d.ts"
+  "index.d.ts"
+  'typescript-mode
+  '(eldoc-mode ns-auto-titlebar-mode global-auto-revert-mode company-mode yas-minor-mode undo-tree-mode lsp-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode diff-hl-mode whitespace-cleanup-mode which-key-mode hes-mode whole-line-or-region-local-mode beacon-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode flycheck-mode tide-mode hs-minor-mode lsp-completion-mode anzu-mode dimmer-mode lsp-modeline-code-actions-mode lsp-modeline-diagnostics-mode lsp-modeline-workspace-status-mode lsp-diagnostics-mode)
+  1022
+  '(1030 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (buffer-display-time 25185 12858 692759 874000) (buffer-file-coding-system . undecided-unix) (overwrite-mode))
+  '((mark-ring (1030))))
+
+(desktop-create-buffer 208
+  "/Users/bleu/work/xiaoyun-merchant-web/node_modules/@ant-design/pro-form/lib/components/SchemaForm/typing.d.ts"
+  "typing.d.ts"
+  'typescript-mode
+  '(eldoc-mode ns-auto-titlebar-mode global-auto-revert-mode company-mode yas-minor-mode undo-tree-mode lsp-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode diff-hl-mode whitespace-cleanup-mode which-key-mode hes-mode whole-line-or-region-local-mode beacon-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode flycheck-mode tide-mode hs-minor-mode lsp-completion-mode anzu-mode dimmer-mode lsp-modeline-code-actions-mode lsp-modeline-diagnostics-mode lsp-modeline-workspace-status-mode lsp-diagnostics-mode)
+  2168
+  '(2178 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (buffer-display-time 25185 8895 304839 874000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (3027))))
+
+(desktop-create-buffer 208
+  "/Users/bleu/work/xiaoyun-merchant-web/node_modules/@ant-design/pro-form/lib/components/SchemaForm/index.d.ts"
+  "index.d.ts"
+  'typescript-mode
+  '(eldoc-mode ns-auto-titlebar-mode global-auto-revert-mode company-mode yas-minor-mode undo-tree-mode lsp-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode diff-hl-mode whitespace-cleanup-mode which-key-mode hes-mode whole-line-or-region-local-mode beacon-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode flycheck-mode tide-mode hs-minor-mode lsp-completion-mode anzu-mode dimmer-mode lsp-modeline-code-actions-mode lsp-modeline-diagnostics-mode lsp-modeline-workspace-status-mode lsp-diagnostics-mode)
+  275
+  '(nil nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (buffer-display-time 25185 8659 733971 874000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/bleu/work/xiaoyun-merchant-web/src/locales/zh-CN/menu.ts"
+  "menu.ts"
+  'typescript-mode
+  '(eldoc-mode ns-auto-titlebar-mode global-auto-revert-mode company-mode yas-minor-mode undo-tree-mode lsp-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode diff-hl-mode whitespace-cleanup-mode which-key-mode hes-mode whole-line-or-region-local-mode beacon-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode flycheck-mode tide-mode hs-minor-mode lsp-completion-mode anzu-mode dimmer-mode lsp-modeline-code-actions-mode lsp-modeline-diagnostics-mode lsp-modeline-workspace-status-mode lsp-diagnostics-mode)
+  2319
+  '(2319 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (buffer-display-time 25185 6075 897051 874000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode))
+  '((mark-ring (1954 1870 2417 2417 1806 93))))
+
+(desktop-create-buffer 208
+  "/Users/bleu/work/xiaoyun-merchant-web/src/utils/utils.ts"
+  "utils.ts"
+  'typescript-mode
+  '(eldoc-mode ns-auto-titlebar-mode global-auto-revert-mode company-mode yas-minor-mode undo-tree-mode lsp-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode diff-hl-mode whitespace-cleanup-mode which-key-mode hes-mode whole-line-or-region-local-mode beacon-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode flycheck-mode tide-mode hs-minor-mode lsp-completion-mode anzu-mode dimmer-mode lsp-modeline-code-actions-mode lsp-modeline-diagnostics-mode lsp-modeline-workspace-status-mode smerge-mode lsp-diagnostics-mode)
+  4910
+  '(2375 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (buffer-display-time 25183 64980 677596 874000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode))
+  '((mark-ring (1222 2375 2375 2375 2375 2375 2375 235 1))))
+
+(desktop-create-buffer 208
+  "/Users/bleu/work/xiaoyun-merchant-web/src/services/ant-design-pro/ConsumerCardController.ts"
+  "ConsumerCardController.ts"
+  'typescript-mode
+  '(eldoc-mode ns-auto-titlebar-mode global-auto-revert-mode company-mode yas-minor-mode undo-tree-mode lsp-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode diff-hl-mode whitespace-cleanup-mode which-key-mode hes-mode whole-line-or-region-local-mode beacon-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode flycheck-mode tide-mode hs-minor-mode lsp-completion-mode anzu-mode dimmer-mode lsp-modeline-code-actions-mode lsp-modeline-diagnostics-mode lsp-modeline-workspace-status-mode lsp-diagnostics-mode)
+  15
+  '(2473 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (buffer-display-time 25183 64943 844922 874000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode))
+  '((mark-ring (2473 15))))
+
+(desktop-create-buffer 208
+  "/Users/bleu/work/xiaoyun-merchant-web/src/pages/projects/projects/components/MapModal.tsx"
+  "MapModal.tsx"
+  'web-mode
+  '(eldoc-mode ns-auto-titlebar-mode global-auto-revert-mode company-mode yas-minor-mode undo-tree-mode lsp-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode diff-hl-mode whitespace-cleanup-mode which-key-mode hes-mode whole-line-or-region-local-mode beacon-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode flycheck-mode tide-mode hs-minor-mode lsp-completion-mode anzu-mode dimmer-mode lsp-modeline-code-actions-mode lsp-modeline-diagnostics-mode lsp-modeline-workspace-status-mode smerge-mode lsp-diagnostics-mode)
+  453
+  '(60 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (buffer-display-time 25183 64932 793241 874000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/bleu/work/xiaoyun-merchant-web/src/pages/projects/projects/components/Copy.tsx"
+  "Copy.tsx"
+  'web-mode
+  '(eldoc-mode ns-auto-titlebar-mode global-auto-revert-mode company-mode yas-minor-mode undo-tree-mode lsp-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode diff-hl-mode whitespace-cleanup-mode which-key-mode hes-mode whole-line-or-region-local-mode beacon-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode flycheck-mode tide-mode hs-minor-mode lsp-completion-mode anzu-mode dimmer-mode lsp-modeline-code-actions-mode lsp-modeline-diagnostics-mode lsp-modeline-workspace-status-mode smerge-mode lsp-diagnostics-mode)
+  24910
+  '(23450 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (buffer-display-time 25183 64922 785679 874000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode))
+  '((mark-ring (20700 18003 15284 12569 10357 12470 10184 8065 5994 24907 393 1 181))))
+
+(desktop-create-buffer 208
+  "/Users/bleu/work/xiaoyun-merchant-web/src/pages/financial/monthlyPackage/components/relationModal.tsx"
+  "relationModal.tsx"
+  'web-mode
+  '(eldoc-mode ns-auto-titlebar-mode global-auto-revert-mode company-mode yas-minor-mode undo-tree-mode lsp-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode diff-hl-mode whitespace-cleanup-mode which-key-mode hes-mode whole-line-or-region-local-mode beacon-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode flycheck-mode tide-mode hs-minor-mode lsp-completion-mode anzu-mode dimmer-mode lsp-modeline-code-actions-mode lsp-modeline-diagnostics-mode lsp-modeline-workspace-status-mode lsp-diagnostics-mode)
+  101
+  '(92 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (buffer-display-time 25183 63896 221157 874000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode))
+  '((mark-ring (360 59))))
+
+(desktop-create-buffer 208
+  "/Users/bleu/work/xiaoyun-merchant-web/src/pages/financial/rechargePackage/components/powterForm.tsx"
+  "powterForm.tsx"
+  'web-mode
+  '(eldoc-mode ns-auto-titlebar-mode global-auto-revert-mode company-mode yas-minor-mode undo-tree-mode lsp-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode diff-hl-mode whitespace-cleanup-mode which-key-mode hes-mode whole-line-or-region-local-mode beacon-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode flycheck-mode tide-mode hs-minor-mode lsp-completion-mode anzu-mode dimmer-mode lsp-modeline-code-actions-mode lsp-modeline-diagnostics-mode lsp-modeline-workspace-status-mode lsp-diagnostics-mode)
+  1332
+  '(1485 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (buffer-display-time 25183 60820 278865 874000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/bleu/work/xiaoyun-merchant-web/src/components/NoticeIcon/NoticeIcon.tsx"
+  "NoticeIcon.tsx"
+  'web-mode
+  '(eldoc-mode ns-auto-titlebar-mode global-auto-revert-mode company-mode yas-minor-mode undo-tree-mode lsp-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode diff-hl-mode whitespace-cleanup-mode which-key-mode hes-mode whole-line-or-region-local-mode beacon-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode flycheck-mode tide-mode hs-minor-mode lsp-completion-mode anzu-mode dimmer-mode lsp-modeline-code-actions-mode lsp-modeline-diagnostics-mode lsp-modeline-workspace-status-mode lsp-diagnostics-mode)
+  2175
+  '(1 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (buffer-display-time 25182 48604 235375 874000) (buffer-file-coding-system . undecided-unix) (overwrite-mode))
+  '((mark-ring (1))))
+
+(desktop-create-buffer 208
+  "/Users/bleu/work/xiaoyun-merchant-web/config/routes.ts"
+  "routes.ts"
+  'typescript-mode
+  '(eldoc-mode ns-auto-titlebar-mode global-auto-revert-mode company-mode yas-minor-mode undo-tree-mode lsp-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode diff-hl-mode whitespace-cleanup-mode which-key-mode hes-mode whole-line-or-region-local-mode beacon-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode flycheck-mode tide-mode hs-minor-mode lsp-completion-mode anzu-mode dimmer-mode lsp-modeline-code-actions-mode lsp-modeline-diagnostics-mode lsp-modeline-workspace-status-mode lsp-diagnostics-mode)
+  3378
+  '(2051 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (buffer-display-time 25182 45890 451951 874000) (buffer-file-coding-system . utf-8-with-signature-unix) (overwrite-mode))
+  '((mark-ring (2051 2051 2051 2051 2051 2051 2051 2051 2051 1875 1762 1748 472 2051 2051 1869))))
+
+(desktop-create-buffer 208
+  "/Users/bleu/work/xiaoyun-merchant-web/src/pages/financial/chargePackage/components/index.ts"
+  "index.ts"
+  'typescript-mode
+  '(eldoc-mode ns-auto-titlebar-mode global-auto-revert-mode company-mode yas-minor-mode undo-tree-mode lsp-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode diff-hl-mode whitespace-cleanup-mode which-key-mode hes-mode whole-line-or-region-local-mode beacon-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode flycheck-mode tide-mode hs-minor-mode lsp-completion-mode anzu-mode dimmer-mode lsp-modeline-code-actions-mode lsp-modeline-diagnostics-mode lsp-modeline-workspace-status-mode lsp-diagnostics-mode)
+  58
+  '(26 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (buffer-display-time 25182 43366 370732 874000) (buffer-file-coding-system . undecided-unix) (overwrite-mode))
+  '((mark-ring (26 26 1 26))))
+
+(desktop-create-buffer 208
+  "/Users/bleu/work/xiaoyun-merchant-web/node_modules/rc-field-form/es/interface.d.ts"
+  "interface.d.ts"
+  'typescript-mode
+  '(eldoc-mode ns-auto-titlebar-mode global-auto-revert-mode company-mode yas-minor-mode undo-tree-mode lsp-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode diff-hl-mode whitespace-cleanup-mode which-key-mode hes-mode whole-line-or-region-local-mode beacon-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode flycheck-mode tide-mode hs-minor-mode lsp-completion-mode anzu-mode dimmer-mode lsp-modeline-code-actions-mode lsp-modeline-diagnostics-mode lsp-modeline-workspace-status-mode lsp-diagnostics-mode)
+  6145
+  '(590 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (buffer-display-time 25182 39406 267739 874000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (6178))))
+
+(desktop-create-buffer 208
+  "/Users/bleu/work/xiaoyun-merchant-web/src/pages/financial/chargePackage/components/ServiceForm.tsx"
+  "ServiceForm.tsx"
+  'web-mode
+  '(eldoc-mode ns-auto-titlebar-mode global-auto-revert-mode company-mode yas-minor-mode undo-tree-mode lsp-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode diff-hl-mode whitespace-cleanup-mode which-key-mode hes-mode whole-line-or-region-local-mode beacon-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode flycheck-mode tide-mode hs-minor-mode lsp-completion-mode anzu-mode dimmer-mode lsp-modeline-code-actions-mode lsp-modeline-diagnostics-mode lsp-modeline-workspace-status-mode lsp-diagnostics-mode)
+  1771
+  '(326 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (buffer-display-time 25182 35569 567766 874000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (case-fold-search . t))
+  '((mark-ring (1771 326 226 326 326 289 326 326 1771 1771 1771 1763 1771 326 1))))
+
+(desktop-create-buffer 208
+  "/Users/bleu/work/xiaoyun-merchant-web/node_modules/@ant-design/pro-form/lib/BaseForm/BaseForm.d.ts"
+  "BaseForm.d.ts"
+  'typescript-mode
+  '(eldoc-mode ns-auto-titlebar-mode global-auto-revert-mode company-mode yas-minor-mode undo-tree-mode lsp-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode diff-hl-mode whitespace-cleanup-mode which-key-mode hes-mode whole-line-or-region-local-mode beacon-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode flycheck-mode tide-mode hs-minor-mode lsp-completion-mode anzu-mode dimmer-mode lsp-modeline-code-actions-mode lsp-modeline-diagnostics-mode lsp-modeline-workspace-status-mode lsp-diagnostics-mode)
+  2908
+  '(404 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (buffer-display-time 25182 33237 361083 874000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode))
+  '((mark-ring (2562))))
+
+(desktop-create-buffer 208
+  "/Users/bleu/work/xiaoyun-merchant-web/node_modules/antd/lib/switch/index.d.ts"
+  "index.d.ts"
+  'typescript-mode
+  '(eldoc-mode ns-auto-titlebar-mode global-auto-revert-mode company-mode yas-minor-mode undo-tree-mode lsp-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode diff-hl-mode whitespace-cleanup-mode which-key-mode hes-mode whole-line-or-region-local-mode beacon-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode flycheck-mode tide-mode hs-minor-mode lsp-completion-mode anzu-mode dimmer-mode lsp-modeline-code-actions-mode lsp-modeline-diagnostics-mode lsp-modeline-workspace-status-mode lsp-diagnostics-mode)
+  898
+  '(nil nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (buffer-display-time 25182 31873 199398 874000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/bleu/work/xiaoyun-merchant-web/node_modules/@ant-design/pro-form/lib/layouts/QueryFilter/index.d.ts"
+  "index.d.ts"
+  'typescript-mode
+  '(eldoc-mode ns-auto-titlebar-mode global-auto-revert-mode company-mode yas-minor-mode undo-tree-mode lsp-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode diff-hl-mode whitespace-cleanup-mode which-key-mode hes-mode whole-line-or-region-local-mode beacon-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode flycheck-mode tide-mode hs-minor-mode lsp-completion-mode anzu-mode dimmer-mode lsp-modeline-code-actions-mode lsp-modeline-diagnostics-mode lsp-modeline-workspace-status-mode lsp-diagnostics-mode)
+  1657
+  '(1557 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (buffer-display-time 25182 30807 999600 874000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/bleu/work/xiaoyun-merchant-web/node_modules/@ant-design/pro-layout/lib/components/PageContainer/index.d.ts"
+  "index.d.ts"
+  'typescript-mode
+  '(eldoc-mode ns-auto-titlebar-mode global-auto-revert-mode company-mode yas-minor-mode undo-tree-mode lsp-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode diff-hl-mode whitespace-cleanup-mode which-key-mode hes-mode whole-line-or-region-local-mode beacon-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode flycheck-mode tide-mode hs-minor-mode lsp-completion-mode anzu-mode dimmer-mode lsp-modeline-code-actions-mode lsp-modeline-diagnostics-mode lsp-modeline-workspace-status-mode lsp-diagnostics-mode)
+  2334
+  '(923 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (buffer-display-time 25182 29851 51883 874000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/bleu/work/xiaoyun-merchant-web/src/assets/icon_back.png"
+  "icon_back.png"
+  'image-mode
+  '(ns-auto-titlebar-mode global-auto-revert-mode company-mode yas-minor-mode undo-tree-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode whitespace-cleanup-mode which-key-mode hes-mode whole-line-or-region-local-mode beacon-mode anzu-mode dimmer-mode)
+  9306
+  '(1 nil)
+  nil
+  nil
+  '((buffer-display-time 25181 10813 667683 682000) (buffer-file-coding-system . no-conversion) (overwrite-mode) (truncate-lines . t))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/bleu/work/xiaoyun-merchant-web/node_modules/@ant-design/pro-table/lib/typing.d.ts"
+  "typing.d.ts"
+  'typescript-mode
+  '(eldoc-mode ns-auto-titlebar-mode global-auto-revert-mode company-mode yas-minor-mode undo-tree-mode lsp-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode diff-hl-mode whitespace-cleanup-mode which-key-mode hes-mode whole-line-or-region-local-mode beacon-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode flycheck-mode tide-mode hs-minor-mode lsp-completion-mode anzu-mode dimmer-mode lsp-modeline-code-actions-mode lsp-modeline-diagnostics-mode lsp-modeline-workspace-status-mode lsp-diagnostics-mode)
+  9637
+  '(571 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (buffer-display-time 25179 48079 181312 187000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (7762 6525 6510 3490 3683 9559))))
+
+(desktop-create-buffer 208
+  "/Users/bleu/work/xiaoyun-merchant-web/node_modules/@ant-design/pro-table/lib/Table.d.ts"
+  "Table.d.ts"
+  'typescript-mode
+  '(eldoc-mode ns-auto-titlebar-mode global-auto-revert-mode company-mode yas-minor-mode undo-tree-mode lsp-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode diff-hl-mode whitespace-cleanup-mode which-key-mode hes-mode whole-line-or-region-local-mode beacon-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode flycheck-mode tide-mode hs-minor-mode lsp-completion-mode anzu-mode dimmer-mode lsp-modeline-code-actions-mode lsp-modeline-diagnostics-mode lsp-modeline-workspace-status-mode lsp-diagnostics-mode)
+  220
+  '(nil nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (buffer-display-time 25179 47936 408546 187000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/bleu/work/xiaoyun-merchant-web/src/pages/projects/projects/index.tsx"
+  "index.tsx"
+  'web-mode
+  '(eldoc-mode ns-auto-titlebar-mode global-auto-revert-mode company-mode yas-minor-mode undo-tree-mode lsp-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode diff-hl-mode whitespace-cleanup-mode which-key-mode hes-mode whole-line-or-region-local-mode beacon-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode flycheck-mode tide-mode hs-minor-mode lsp-completion-mode anzu-mode dimmer-mode lsp-modeline-code-actions-mode lsp-modeline-diagnostics-mode lsp-modeline-workspace-status-mode lsp-diagnostics-mode)
+  302
+  '(2 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (buffer-display-time 25179 46117 875652 187000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode))
+  '((mark-ring (2 9115 2 2 2))))
+
+(desktop-create-buffer 208
+  "/Users/bleu/work/xiaoyun-merchant-web/src/pages/eleCard/list/index.tsx"
+  "index.tsx"
+  'web-mode
+  '(eldoc-mode ns-auto-titlebar-mode global-auto-revert-mode company-mode yas-minor-mode undo-tree-mode lsp-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode diff-hl-mode whitespace-cleanup-mode which-key-mode hes-mode whole-line-or-region-local-mode beacon-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode flycheck-mode tide-mode hs-minor-mode lsp-completion-mode anzu-mode dimmer-mode lsp-modeline-code-actions-mode lsp-modeline-diagnostics-mode lsp-modeline-workspace-status-mode lsp-diagnostics-mode)
+  4437
+  '(10 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (buffer-display-time 25179 41276 956813 187000) (buffer-file-coding-system . utf-8-unix) (overwrite-mode))
+  '((mark-ring (10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10))))
+
+(desktop-create-buffer 208
+  "/Users/bleu/work/xiaoyun-merchant-web/src/app.tsx"
+  "app.tsx"
+  'web-mode
+  '(eldoc-mode ns-auto-titlebar-mode global-auto-revert-mode company-mode yas-minor-mode undo-tree-mode lsp-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode diff-hl-mode whitespace-cleanup-mode which-key-mode hes-mode whole-line-or-region-local-mode beacon-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode flycheck-mode tide-mode hs-minor-mode lsp-completion-mode anzu-mode dimmer-mode lsp-modeline-code-actions-mode lsp-modeline-diagnostics-mode lsp-modeline-workspace-status-mode lsp-diagnostics-mode)
+  5428
+  '(6113 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (buffer-display-time 25179 33121 117356 187000) (buffer-file-coding-system . utf-8-unix) (case-fold-search . t))
+  '((mark-ring (6113 6113 6113 6113 6113 6414 5092 6386 6343 6113 6113 5932 1328 1494 4008 5435))))
+
+(desktop-create-buffer 208
+  "/Users/bleu/work/xiaoyun-merchant-web/config/proxy.ts"
+  "proxy.ts"
+  'typescript-mode
+  '(eldoc-mode ns-auto-titlebar-mode global-auto-revert-mode company-mode yas-minor-mode undo-tree-mode lsp-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode diff-hl-mode whitespace-cleanup-mode which-key-mode hes-mode whole-line-or-region-local-mode beacon-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode flycheck-mode tide-mode hs-minor-mode lsp-completion-mode anzu-mode dimmer-mode lsp-modeline-code-actions-mode lsp-modeline-diagnostics-mode lsp-modeline-workspace-status-mode lsp-diagnostics-mode)
+  72
+  '(72 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (buffer-display-time 25179 33121 386483 187000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (72))))
+
+(desktop-create-buffer 208
+  "/Users/bleu/work/xiaoyun-merchant-web/config/oneapi.json"
+  "oneapi.json"
+  'json-mode
+  '(ns-auto-titlebar-mode inferior-js-keys-mode global-auto-revert-mode company-mode yas-minor-mode undo-tree-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode diff-hl-mode whitespace-cleanup-mode which-key-mode hes-mode whole-line-or-region-local-mode beacon-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode flycheck-mode anzu-mode dimmer-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (buffer-display-time 25179 33107 728806 187000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/bleu/work/xiaoyun-merchant-web/node_modules/antd/lib/table/interface.d.ts"
+  "interface.d.ts"
+  'typescript-mode
+  '(eldoc-mode ns-auto-titlebar-mode global-auto-revert-mode company-mode yas-minor-mode undo-tree-mode lsp-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode diff-hl-mode whitespace-cleanup-mode which-key-mode hes-mode whole-line-or-region-local-mode beacon-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode flycheck-mode tide-mode hs-minor-mode lsp-completion-mode anzu-mode dimmer-mode lsp-modeline-code-actions-mode lsp-modeline-diagnostics-mode lsp-modeline-workspace-status-mode lsp-diagnostics-mode)
+  1311
+  '(nil nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (buffer-display-time 25179 31466 955398 187000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/bleu/work/xiaoyun-merchant-web/src/constant/constant.ts"
+  "constant.ts"
+  'typescript-mode
+  '(eldoc-mode ns-auto-titlebar-mode global-auto-revert-mode company-mode yas-minor-mode undo-tree-mode lsp-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode diff-hl-mode whitespace-cleanup-mode which-key-mode hes-mode whole-line-or-region-local-mode beacon-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode flycheck-mode tide-mode hs-minor-mode lsp-completion-mode anzu-mode dimmer-mode lsp-modeline-code-actions-mode lsp-modeline-diagnostics-mode lsp-modeline-workspace-status-mode lsp-diagnostics-mode)
+  206
+  '(nil nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (buffer-display-time 25179 29373 912614 187000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/bleu/work/xiaoyun-merchant-web/src/locales/bn-BD.ts"
+  "bn-BD.ts"
+  'typescript-mode
+  '(eldoc-mode ns-auto-titlebar-mode global-auto-revert-mode company-mode yas-minor-mode undo-tree-mode lsp-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode diff-hl-mode whitespace-cleanup-mode which-key-mode hes-mode whole-line-or-region-local-mode beacon-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode flycheck-mode tide-mode hs-minor-mode lsp-completion-mode anzu-mode dimmer-mode lsp-modeline-code-actions-mode lsp-modeline-diagnostics-mode lsp-modeline-workspace-status-mode lsp-diagnostics-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (buffer-display-time 25179 26281 135018 187000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/bleu/work/xiaoyun-merchant-web/src/global.tsx"
+  "global.tsx"
+  'web-mode
+  '(eldoc-mode ns-auto-titlebar-mode global-auto-revert-mode company-mode yas-minor-mode undo-tree-mode lsp-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode diff-hl-mode whitespace-cleanup-mode which-key-mode hes-mode whole-line-or-region-local-mode beacon-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode flycheck-mode tide-mode hs-minor-mode lsp-completion-mode anzu-mode dimmer-mode lsp-modeline-code-actions-mode lsp-modeline-diagnostics-mode lsp-modeline-workspace-status-mode lsp-diagnostics-mode)
+  1
+  '(1 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (buffer-display-time 25179 26282 986667 187000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/bleu/work/xiaoyun-merchant-web/src/pages/Admin.tsx"
+  "Admin.tsx"
+  'web-mode
+  '(eldoc-mode ns-auto-titlebar-mode global-auto-revert-mode company-mode yas-minor-mode undo-tree-mode lsp-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode diff-hl-mode whitespace-cleanup-mode which-key-mode hes-mode whole-line-or-region-local-mode beacon-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode flycheck-mode tide-mode hs-minor-mode lsp-completion-mode anzu-mode dimmer-mode lsp-modeline-code-actions-mode lsp-modeline-diagnostics-mode lsp-modeline-workspace-status-mode lsp-diagnostics-mode)
+  1053
+  '(nil nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (buffer-display-time 25179 26283 428584 187000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/bleu/work/xiaoyun-merchant-web/src/pages/user/Login/index.tsx"
+  "index.tsx"
+  'web-mode
+  '(eldoc-mode ns-auto-titlebar-mode global-auto-revert-mode company-mode yas-minor-mode undo-tree-mode lsp-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode diff-hl-mode whitespace-cleanup-mode which-key-mode hes-mode whole-line-or-region-local-mode beacon-mode goto-address-prog-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode flycheck-mode tide-mode hs-minor-mode lsp-completion-mode anzu-mode dimmer-mode lsp-modeline-code-actions-mode lsp-modeline-diagnostics-mode lsp-modeline-workspace-status-mode lsp-diagnostics-mode)
+  2642
+  '(2350 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (buffer-display-time 25193 7554 983527 0) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (642 2350))))
+

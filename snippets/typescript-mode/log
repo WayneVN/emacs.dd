@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: console.log()
+# key: log
+# --
+console.log('debug: $0', $1)
